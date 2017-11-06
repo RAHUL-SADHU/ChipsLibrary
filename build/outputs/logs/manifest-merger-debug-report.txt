@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+	package
+		ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:1-2:27
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		ADDED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
+		INJECTED from /media/dipen/DATA-E-Old/Company_Projects/ClubSpot/code_svn/chipslibrary/src/main/AndroidManifest.xml
